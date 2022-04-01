@@ -1,0 +1,14 @@
+.menu{
+    background:#ff4f4f!important;
+}
+h6:hover {
+    color: rgb(0, 0, 0);
+}
+.text-decorator-none{
+    text-decoration: none;
+}
+.cursor{
+    cursor: pointer;
+    color: white;
+
+}
